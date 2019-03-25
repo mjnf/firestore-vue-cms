@@ -201,7 +201,7 @@
           </el-select>
         </el-form-item>
 
-        <!-- SELECT BY ID -->
+        <!-- SELECT BY OPTIONS -->
         <el-form-item
           :key="index"
           v-if="column.editable && column.type == 'options'"

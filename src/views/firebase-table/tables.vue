@@ -110,7 +110,7 @@
         <template slot-scope="scope">
           <el-tag>
             {{
-            mappingCollection(column.collection, scope.row[column.field], column.collectionFieldLabel)
+                mappingCollection(column.collection, scope.row[column.field], column.collectionFieldLabel)
             }}
           </el-tag>
         </template>

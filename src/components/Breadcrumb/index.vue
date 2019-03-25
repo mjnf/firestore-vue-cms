@@ -38,7 +38,6 @@ export default {
 
       if (first && first.name !== 'dashboard') {
           if (matched[0].name == "Content"){
-              console.log(matched);
               matched[0].meta.title = this.$route.params.collection
           }
 
