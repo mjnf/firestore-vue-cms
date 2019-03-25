@@ -6,7 +6,7 @@
 
 ```bash
 # Clone project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+git clone https://github.com/mjnf/firestore-vue-cms
 
 # Install dependencies
 npm install
@@ -23,7 +23,7 @@ npm run build --report
 
 ## Demo
 
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+![demo](https://github.com/mjnf/firestore-vue-cms)
 
 ## Extra
 
